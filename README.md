@@ -1,6 +1,10 @@
 # 2D-Tennis
 ## Overview
+2D-Tennis is a two player table table tennis game that replicates the thrill and skill of a tennis match.
 ## Materials
+- (1) 2D-Tennis court
+- (2) Pennies (Players)
+- (1) Dime (Tennis ball)
 ## Order of Play
 ### 1. Serve
 1. Place serving player anywhere in back quadrant on service side.
