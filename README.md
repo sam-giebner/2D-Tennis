@@ -22,7 +22,7 @@
             - A ball that is atleast half way over the net on secound serve is played as a "let" serve.
 2. The serving player penny is flicked into position on the serving side of the court.
     - If the serving player penny is more that half way over the net, the point has been won by the other player.
-### 2. Return
+### 3. Return
 1. The returning player attempts to "hit" the ball by flicking their penny so that it makes contact with the ball.
     - The point is won by the other player if:
         - The returning player penny fails to contact the ball.
