@@ -8,7 +8,7 @@
    version="1.1"
    id="svg5"
    inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
-   sodipodi:docname="Tennis.svg"
+   sodipodi:docname="2D-Tennis Court.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -25,7 +25,7 @@
      inkscape:document-units="in"
      showgrid="false"
      inkscape:zoom="0.74337121"
-     inkscape:cx="408.27516"
+     inkscape:cx="328.90701"
      inkscape:cy="528"
      inkscape:window-width="1920"
      inkscape:window-height="1001"
@@ -39,24 +39,17 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
-    <rect
-       style="fill:none;stroke:#000000;stroke-width:1.31415"
-       id="rect234"
-       width="574.68585"
-       height="910.68585"
-       x="120.65707"
-       y="72.657074" />
     <path
        style="fill:none;stroke:#000000;stroke-width:4.16809"
        d="M 96,528 H 720"
        id="path674" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:1.5"
-       d="M 120.65707,755.625 H 695.34293"
+       style="fill:none;stroke:#000000;stroke-width:1.40472"
+       d="M 156,755.625 H 660"
        id="path678" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:1.5"
-       d="M 120.65707,299.625 H 695.34293"
+       style="fill:none;stroke:#000000;stroke-width:1.40472"
+       d="M 156,299.625 H 660"
        id="path680" />
     <path
        style="fill:none;stroke:#000000;stroke-width:1.5"
@@ -74,5 +67,27 @@
        cx="720"
        cy="528"
        r="7.1351352" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.34164"
+       d="M 408,964.8 V 984"
+       id="path2303" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.34164"
+       d="m 408,71.999999 v 19.2"
+       id="path2305" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:1.22924"
+       id="rect296"
+       width="502.77075"
+       height="910.77075"
+       x="156.61462"
+       y="72.614616" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:1.31415"
+       id="rect234"
+       width="574.68585"
+       height="910.68585"
+       x="120.65707"
+       y="72.657074" />
   </g>
 </svg>
