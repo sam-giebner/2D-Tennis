@@ -30,7 +30,7 @@
     - A player whose penny has been struck by a serve or return has successfully "hit" the ball.
         - If a player's penny has been struck by the ball and sent off the paper, the penny is immediatly placed anywhere on the baseline.
 2. The returning player places their shot by by flicking the ball back over the net to the other side of the court.
-    - If the ball more than halfway or completly over the net as a result of the "hit", the ball has been returned and the shot has already been placed.
+    - If the ball more than halfway or completly over the net as a result of the "hit", the shot has already been placed.
     - The point is won by the other player if:
         - The ball does not land inbounds (Entirely on the court OR touches the base/sidelines).
         - The ball does not pass over the net on its way to the other side of the court.
