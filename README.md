@@ -16,10 +16,21 @@
 ### 2. Serve
 1. The serving player flicks the ball across the net to the returning side of the court. 
     - A legal serve must:
-        - Land inbounds (Entirely on the court OR touch the base/sidelines)
+        - Land inbounds (Entirely on the court OR touch the base/sidelines).
         - Land in the half of the court kiddy corner the serving player.
         - Must not touch the net on the first serve.
             - A ball that is atleast half way over the net on secound serve is played as a "let" serve.
 2. The serving player penny is flicked into position on the serving side of the court.
     - If the serving player penny is more that half way over the net, the point has been won by the other player.
 ### 2. Return
+1. The returning player attempts to "hit" the ball by flicking their penny so that it makes contact with the ball.
+    - The point is won by the other player if:
+        - The returning player penny fails to contact the ball.
+        - The returning player penny goes more that halfway over the net.
+    - A player whose penny has been struck by a serve or return has successfully "hit" the ball.
+        - If a player's penny has been struck by the ball and sent off the paper, the penny is immediatly placed anywhere on the baseline.
+2. The returning player places their shot by by flicking the ball back over the net to the other side of the court.
+    - If the ball more than halfway or completly over the net as a result of the "hit", the ball has been returned and the shot has already been placed.
+    - The point is won by the other player if:
+        - The ball does not land inbounds (Entirely on the court OR touches the base/sidelines).
+        - The ball does not pass over the net on its way to the other side of the court.
