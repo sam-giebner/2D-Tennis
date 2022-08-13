@@ -1,6 +1,6 @@
 # 2D-Tennis
 ## Overview
-2D-Tennis is a two player print and play board game that captures the thrill, skill, suspense of a tennis match on a sheet of paper. Using coins as stand ins for the players and ball, 2D-Tennis players hunt for the ace on serves, deliver devistating cross court return shots, and feel the pressure to make the game winning shot.
+2D-Tennis is a two player print and play board game that captures the thrill, skill, suspense of a tennis match on a sheet of paper. Using coins as stand ins for the players and ball, 2D-Tennis players hunt for the ace on serves, deliver devistating cross court return shots, and stave off nerves to make the game winning shot.
 ## Materials
 - (1) 2D-Tennis court
 - (2) Pennies (Players)
